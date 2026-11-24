@@ -20,7 +20,7 @@ Students at Babcock University depend on kekes to move around campus. Today a st
 The purpose of this product is to replace informal, chance-based keke pickup with a request-and-dispatch process that helps students obtain rides at predictable per-seat fares and enables drivers to view and serve passenger demand across campus.
 
 ### 1.2 Product Summary
-The application allows students to request rides between predefined campus locations. The system can group compatible requests—up to three passengers—into a ride, present grouped requests to drivers, and provide ride-status updates. Administrators manage locations, fare zones, driver records, and operational reporting.
+LYFT allows students to request rides between predefined campus locations. The system can group compatible requests—up to three passengers—into a ride, present grouped requests to drivers, and provide ride-status updates. Administrators manage locations, fare zones, driver records, and operational reporting.
 
 ### 1.3 Product Vision
 Make campus keke transportation more predictable, accessible, transparent, and efficient for students and drivers.
